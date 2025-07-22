@@ -1,0 +1,2696 @@
+[
+  {
+    "item_id": "1011e0b3-f3af-4a02-9c0c-179bbe5875e3",
+    "item_created": "2025-07-07T15:56:52.113839",
+    "item_modified": "2025-07-07T15:56:52.113843",
+    "name": "Barbell Bench Press",
+    "description": "Lying on a bench, press a barbell up from chest level",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "e980363a-45d2-4ad4-b1a4-3231956b372e",
+    "item_created": "2025-07-07T15:56:52.117752",
+    "item_modified": "2025-07-07T15:56:52.117757",
+    "name": "Dumbbell Bench Press",
+    "description": "Press dumbbells up from chest level while lying on a bench",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "a04d8aea-f037-4d52-8016-bfec0168091d",
+    "item_created": "2025-07-07T15:56:52.118505",
+    "item_modified": "2025-07-07T15:56:52.118509",
+    "name": "Incline Barbell Press",
+    "description": "Press barbell on an inclined bench",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Shoulders",
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "f2e87a18-dc2b-406a-a312-6bd2a86d4303",
+    "item_created": "2025-07-07T15:56:52.119275",
+    "item_modified": "2025-07-07T15:56:52.119279",
+    "name": "Decline Bench Press",
+    "description": "Press barbell on a declined bench",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "4f4acef3-89a0-4545-8478-a4bea1e7ef85",
+    "item_created": "2025-07-07T15:56:52.119798",
+    "item_modified": "2025-07-07T15:56:52.119801",
+    "name": "Push-ups",
+    "description": "Body weight exercise pushing up from the ground",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Shoulders",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "c501d106-111a-4677-a8d4-c97abb6cc7ab",
+    "item_created": "2025-07-07T15:56:52.120396",
+    "item_modified": "2025-07-07T15:56:52.120401",
+    "name": "Diamond Push-ups",
+    "description": "Push-ups with hands close together forming a diamond",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Chest",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "aa52bffb-df78-4c33-905a-0c3b9263777d",
+    "item_created": "2025-07-07T15:56:52.121085",
+    "item_modified": "2025-07-07T15:56:52.121092",
+    "name": "Cable Chest Fly",
+    "description": "Fly motion using cable machine",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "f2660be0-042d-48b2-bde1-8eda14f29ba5",
+    "item_created": "2025-07-07T15:56:52.121939",
+    "item_modified": "2025-07-07T15:56:52.121944",
+    "name": "Dumbbell Fly",
+    "description": "Fly motion with dumbbells on a bench",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "e629f518-8408-4152-9a7d-454bf643a2e3",
+    "item_created": "2025-07-07T15:56:52.122866",
+    "item_modified": "2025-07-07T15:56:52.122871",
+    "name": "Barbell Back Squat",
+    "description": "Squat with barbell on upper back",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Core",
+      "Calves"
+    ]
+  },
+  {
+    "item_id": "5698c618-ce7e-4876-9db3-13d59dc18a95",
+    "item_created": "2025-07-07T15:56:52.123744",
+    "item_modified": "2025-07-07T15:56:52.123749",
+    "name": "Front Squat",
+    "description": "Squat with barbell on front shoulders",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quadriceps"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Glutes",
+      "Upper Back"
+    ]
+  },
+  {
+    "item_id": "ff10902e-a270-4f8b-8b75-5b2efb5fa045",
+    "item_created": "2025-07-07T15:56:52.124503",
+    "item_modified": "2025-07-07T15:56:52.124508",
+    "name": "Goblet Squat",
+    "description": "Squat holding a dumbbell or kettlebell at chest",
+    "category": "Strength",
+    "equipment": "Dumbbell",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "99ae301e-4b72-4f69-b0a9-b87d2e636c50",
+    "item_created": "2025-07-07T15:56:52.125264",
+    "item_modified": "2025-07-07T15:56:52.125268",
+    "name": "Bulgarian Split Squat",
+    "description": "Single leg squat with rear foot elevated",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "c4f283b1-cfc3-4268-a963-e377866526f1",
+    "item_created": "2025-07-07T15:56:52.126055",
+    "item_modified": "2025-07-07T15:56:52.126059",
+    "name": "Leg Press",
+    "description": "Press weight away using leg press machine",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Quadriceps"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "2bf487f1-eac1-43ed-b180-2c5659dac9d1",
+    "item_created": "2025-07-07T15:56:52.126942",
+    "item_modified": "2025-07-07T15:56:52.126946",
+    "name": "Lunges",
+    "description": "Step forward and lower body",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Calves"
+    ]
+  },
+  {
+    "item_id": "c069359b-52a0-4d2e-9d90-f669fe532757",
+    "item_created": "2025-07-07T15:56:52.127570",
+    "item_modified": "2025-07-07T15:56:52.127574",
+    "name": "Walking Lunges",
+    "description": "Continuous lunges while walking",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Calves",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "010f5185-783e-42dd-9716-b203b247f917",
+    "item_created": "2025-07-07T15:56:52.128193",
+    "item_modified": "2025-07-07T15:56:52.128197",
+    "name": "Deadlift",
+    "description": "Lift barbell from ground to hip level",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Hamstrings",
+      "Glutes",
+      "Lower Back"
+    ],
+    "sub_muscles": [
+      "Traps",
+      "Core",
+      "Forearms"
+    ]
+  },
+  {
+    "item_id": "b507e03f-0b85-43c6-86b6-dd7c77d016b9",
+    "item_created": "2025-07-07T15:56:52.128950",
+    "item_modified": "2025-07-07T15:56:52.128954",
+    "name": "Romanian Deadlift",
+    "description": "Deadlift variation starting from standing position",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Lower Back",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "4c935dbb-d2ff-4d02-90fa-0accaaaf6780",
+    "item_created": "2025-07-07T15:56:52.129515",
+    "item_modified": "2025-07-07T15:56:52.129519",
+    "name": "Sumo Deadlift",
+    "description": "Wide stance deadlift",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "sub_muscles": [
+      "Quadriceps",
+      "Lower Back",
+      "Traps"
+    ]
+  },
+  {
+    "item_id": "dccdfcf2-c37c-4622-b9c8-bc20db81f7ab",
+    "item_created": "2025-07-07T15:56:52.130065",
+    "item_modified": "2025-07-07T15:56:52.130068",
+    "name": "Trap Bar Deadlift",
+    "description": "Deadlift using hexagonal trap bar",
+    "category": "Strength",
+    "equipment": "Trap Bar",
+    "muscles": [
+      "Quadriceps",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "sub_muscles": [
+      "Lower Back",
+      "Traps"
+    ]
+  },
+  {
+    "item_id": "2ee5413f-9a91-45a9-a8ec-b6525185cf70",
+    "item_created": "2025-07-07T15:56:52.130970",
+    "item_modified": "2025-07-07T15:56:52.130974",
+    "name": "Pull-ups",
+    "description": "Pull body up to bar with overhand grip",
+    "category": "Strength",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Lats",
+      "Upper Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Core",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "067b2fa4-afb1-4ff7-a2cd-3121fe5a72bf",
+    "item_created": "2025-07-07T15:56:52.131547",
+    "item_modified": "2025-07-07T15:56:52.131552",
+    "name": "Chin-ups",
+    "description": "Pull body up to bar with underhand grip",
+    "category": "Strength",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Lats",
+      "Biceps"
+    ],
+    "sub_muscles": [
+      "Upper Back",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "3b4977d7-16d6-4903-9dc8-f769f6eb32b9",
+    "item_created": "2025-07-07T15:56:52.132309",
+    "item_modified": "2025-07-07T15:56:52.132313",
+    "name": "Lat Pulldown",
+    "description": "Pull cable bar down to chest",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Lats"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Middle Back"
+    ]
+  },
+  {
+    "item_id": "c03b55bc-0602-4591-a924-0c19c8784955",
+    "item_created": "2025-07-07T15:56:52.133148",
+    "item_modified": "2025-07-07T15:56:52.133153",
+    "name": "Barbell Row",
+    "description": "Row barbell to stomach while bent over",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Middle Back",
+      "Lats"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Rear Delts"
+    ]
+  },
+  {
+    "item_id": "02caf440-6615-427f-b3ef-3b5225926e65",
+    "item_created": "2025-07-07T15:56:52.133730",
+    "item_modified": "2025-07-07T15:56:52.133734",
+    "name": "Dumbbell Row",
+    "description": "Single arm row with dumbbell",
+    "category": "Strength",
+    "equipment": "Dumbbell",
+    "muscles": [
+      "Lats",
+      "Middle Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Rear Delts"
+    ]
+  },
+  {
+    "item_id": "e49978a4-eb3b-4e34-9152-9c1d0849c74e",
+    "item_created": "2025-07-07T15:56:52.134442",
+    "item_modified": "2025-07-07T15:56:52.134447",
+    "name": "T-Bar Row",
+    "description": "Row using T-bar attachment",
+    "category": "Strength",
+    "equipment": "T-Bar",
+    "muscles": [
+      "Middle Back",
+      "Lats"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Rear Delts"
+    ]
+  },
+  {
+    "item_id": "36cea2fb-9489-4c5a-8b81-9367804dfd77",
+    "item_created": "2025-07-07T15:56:52.135016",
+    "item_modified": "2025-07-07T15:56:52.135020",
+    "name": "Seated Cable Row",
+    "description": "Row cable while seated",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Middle Back"
+    ],
+    "sub_muscles": [
+      "Lats",
+      "Biceps",
+      "Rear Delts"
+    ]
+  },
+  {
+    "item_id": "e481f6f3-31a4-487b-8c0e-1188e2e884a2",
+    "item_created": "2025-07-07T15:56:52.135546",
+    "item_modified": "2025-07-07T15:56:52.135550",
+    "name": "Face Pulls",
+    "description": "Pull rope to face level",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Rear Delts",
+      "Upper Back"
+    ],
+    "sub_muscles": [
+      "Traps",
+      "Rhomboids"
+    ]
+  },
+  {
+    "item_id": "66d438cd-54b2-4eb7-82fc-91dbc54b4bcd",
+    "item_created": "2025-07-07T15:56:52.136084",
+    "item_modified": "2025-07-07T15:56:52.136089",
+    "name": "Military Press",
+    "description": "Press barbell overhead from front",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "ad615866-3a81-46ea-b1f5-7229749503cf",
+    "item_created": "2025-07-07T15:56:52.136669",
+    "item_modified": "2025-07-07T15:56:52.136674",
+    "name": "Dumbbell Shoulder Press",
+    "description": "Press dumbbells overhead",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "1f2672a4-d6fe-4ba4-b4a1-5c8f48733952",
+    "item_created": "2025-07-07T15:56:52.137315",
+    "item_modified": "2025-07-07T15:56:52.137319",
+    "name": "Arnold Press",
+    "description": "Rotating dumbbell press",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "b3132071-0f16-4943-8f83-68f98543325c",
+    "item_created": "2025-07-07T15:56:52.137861",
+    "item_modified": "2025-07-07T15:56:52.137865",
+    "name": "Lateral Raises",
+    "description": "Raise dumbbells to sides",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Traps"
+    ]
+  },
+  {
+    "item_id": "49cc745d-34b3-4275-bbf4-58d245dc27b0",
+    "item_created": "2025-07-07T15:56:52.138491",
+    "item_modified": "2025-07-07T15:56:52.138542",
+    "name": "Front Raises",
+    "description": "Raise dumbbells to front",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "a27e8224-fc46-40f2-9601-8c7aa6a32874",
+    "item_created": "2025-07-07T15:56:52.140147",
+    "item_modified": "2025-07-07T15:56:52.140156",
+    "name": "Rear Delt Fly",
+    "description": "Fly motion targeting rear delts",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Rear Delts"
+    ],
+    "sub_muscles": [
+      "Upper Back"
+    ]
+  },
+  {
+    "item_id": "4e01b06c-e1e3-4969-878a-15337518c7eb",
+    "item_created": "2025-07-07T15:56:52.141429",
+    "item_modified": "2025-07-07T15:56:52.141434",
+    "name": "Upright Row",
+    "description": "Pull weight up along body",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Shoulders",
+      "Traps"
+    ],
+    "sub_muscles": [
+      "Biceps"
+    ]
+  },
+  {
+    "item_id": "7e8eb0fc-f265-4213-a7a3-545925a4c92e",
+    "item_created": "2025-07-07T15:56:52.142209",
+    "item_modified": "2025-07-07T15:56:52.142214",
+    "name": "Barbell Shrugs",
+    "description": "Shrug shoulders with barbell",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Traps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "5955a2ce-ac2c-44b2-98a9-e42dae679820",
+    "item_created": "2025-07-07T15:56:52.142915",
+    "item_modified": "2025-07-07T15:56:52.142919",
+    "name": "Dumbbell Shrugs",
+    "description": "Shrug shoulders with dumbbells",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Traps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "a7a6d94a-c5b8-4467-bef1-1227eb8bc273",
+    "item_created": "2025-07-07T15:56:52.143836",
+    "item_modified": "2025-07-07T15:56:52.143897",
+    "name": "Barbell Curl",
+    "description": "Curl barbell up",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": [
+      "Forearms"
+    ]
+  },
+  {
+    "item_id": "33b9139b-f610-4bd3-82f1-08984b8f1b87",
+    "item_created": "2025-07-07T15:56:52.144807",
+    "item_modified": "2025-07-07T15:56:52.144812",
+    "name": "Dumbbell Curl",
+    "description": "Curl dumbbells up",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": [
+      "Forearms"
+    ]
+  },
+  {
+    "item_id": "1abfa552-d88f-410f-abd3-e79042b17b51",
+    "item_created": "2025-07-07T15:56:52.145489",
+    "item_modified": "2025-07-07T15:56:52.145493",
+    "name": "Hammer Curl",
+    "description": "Curl with neutral grip",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": [
+      "Forearms"
+    ]
+  },
+  {
+    "item_id": "19339352-ca08-4238-be15-97b93122bea7",
+    "item_created": "2025-07-07T15:56:52.146280",
+    "item_modified": "2025-07-07T15:56:52.146284",
+    "name": "Preacher Curl",
+    "description": "Curl on preacher bench",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "9387e39c-6189-4cc6-b0de-cb190f24600d",
+    "item_created": "2025-07-07T15:56:52.147057",
+    "item_modified": "2025-07-07T15:56:52.147062",
+    "name": "Cable Curl",
+    "description": "Curl using cable machine",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": [
+      "Forearms"
+    ]
+  },
+  {
+    "item_id": "364ec84e-0caa-4db8-8c6e-eca2d2e4d8ad",
+    "item_created": "2025-07-07T15:56:52.147776",
+    "item_modified": "2025-07-07T15:56:52.147780",
+    "name": "Concentration Curl",
+    "description": "Single arm curl while seated",
+    "category": "Strength",
+    "equipment": "Dumbbell",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "cd48a7f0-e393-4daa-bdbd-5e7d70726c22",
+    "item_created": "2025-07-07T15:56:52.148484",
+    "item_modified": "2025-07-07T15:56:52.148489",
+    "name": "Tricep Dips",
+    "description": "Dip body weight for triceps",
+    "category": "Strength",
+    "equipment": "Dip Bar",
+    "muscles": [
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Chest",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "65033073-bc70-4172-844f-ab0c8f08f639",
+    "item_created": "2025-07-07T15:56:52.149411",
+    "item_modified": "2025-07-07T15:56:52.149415",
+    "name": "Tricep Pushdown",
+    "description": "Push cable down for triceps",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Triceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "f145079f-da80-40d6-9840-43f8b05c9e47",
+    "item_created": "2025-07-07T15:56:52.150213",
+    "item_modified": "2025-07-07T15:56:52.150218",
+    "name": "Overhead Tricep Extension",
+    "description": "Extend weight overhead",
+    "category": "Strength",
+    "equipment": "Dumbbell",
+    "muscles": [
+      "Triceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "e47fe63b-d921-48a6-8a49-3d69330541bf",
+    "item_created": "2025-07-07T15:56:52.150877",
+    "item_modified": "2025-07-07T15:56:52.150881",
+    "name": "Close-Grip Bench Press",
+    "description": "Bench press with close grip",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Chest",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "c0602732-c72f-489c-ae78-cdca3ed81be3",
+    "item_created": "2025-07-07T15:56:52.151450",
+    "item_modified": "2025-07-07T15:56:52.151454",
+    "name": "Skull Crushers",
+    "description": "Lower weight to forehead while lying",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Triceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "bac2fd85-5485-443e-933d-758beef58a7d",
+    "item_created": "2025-07-07T15:56:52.152201",
+    "item_modified": "2025-07-07T15:56:52.152206",
+    "name": "Plank",
+    "description": "Hold body straight in push-up position",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Shoulders",
+      "Glutes"
+    ]
+  },
+  {
+    "item_id": "6499960a-7bf4-4dde-a364-cf3f289c2c55",
+    "item_created": "2025-07-07T15:56:52.152812",
+    "item_modified": "2025-07-07T15:56:52.152816",
+    "name": "Side Plank",
+    "description": "Hold body sideways",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Obliques",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "876df6ef-763e-4a5d-9c13-fb493c996849",
+    "item_created": "2025-07-07T15:56:52.153378",
+    "item_modified": "2025-07-07T15:56:52.153382",
+    "name": "Crunches",
+    "description": "Basic abdominal crunch",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "5fd59401-c11a-4d5b-baf1-42d286b37148",
+    "item_created": "2025-07-07T15:56:52.153983",
+    "item_modified": "2025-07-07T15:56:52.153987",
+    "name": "Russian Twists",
+    "description": "Rotate torso side to side",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Obliques"
+    ]
+  },
+  {
+    "item_id": "d948f7bb-3951-49bd-8033-c992498e19b5",
+    "item_created": "2025-07-07T15:56:52.155744",
+    "item_modified": "2025-07-07T15:56:52.155748",
+    "name": "Leg Raises",
+    "description": "Raise legs while lying down",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Hip Flexors"
+    ]
+  },
+  {
+    "item_id": "a7f0426e-7333-4777-a138-7fed33a7e663",
+    "item_created": "2025-07-07T15:56:52.156501",
+    "item_modified": "2025-07-07T15:56:52.156505",
+    "name": "Mountain Climbers",
+    "description": "Alternate bringing knees to chest in plank",
+    "category": "Cardio",
+    "equipment": "None",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Shoulders",
+      "Quadriceps"
+    ]
+  },
+  {
+    "item_id": "ba8945ed-cf79-485d-8fe4-e86463038fc8",
+    "item_created": "2025-07-07T15:56:52.157343",
+    "item_modified": "2025-07-07T15:56:52.157347",
+    "name": "Burpees",
+    "description": "Full body explosive movement",
+    "category": "Cardio",
+    "equipment": "None",
+    "muscles": [
+      "Full Body"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "fedffb46-4fa8-4e0c-8184-013c5840245d",
+    "item_created": "2025-07-07T15:56:52.158107",
+    "item_modified": "2025-07-07T15:56:52.158112",
+    "name": "Box Jumps",
+    "description": "Jump onto elevated platform",
+    "category": "Plyometric",
+    "equipment": "Box",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Calves",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "f8d397b4-dbb7-4769-981a-86b7c5ee690d",
+    "item_created": "2025-07-07T15:56:52.159113",
+    "item_modified": "2025-07-07T15:56:52.159118",
+    "name": "Jump Squats",
+    "description": "Squat with explosive jump",
+    "category": "Plyometric",
+    "equipment": "None",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Calves",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "b4429dec-ad3b-4ced-ba76-ef8d9a95cd0d",
+    "item_created": "2025-07-07T15:56:52.159943",
+    "item_modified": "2025-07-07T15:56:52.159947",
+    "name": "Kettlebell Swing",
+    "description": "Swing kettlebell using hip drive",
+    "category": "Power",
+    "equipment": "Kettlebell",
+    "muscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Shoulders",
+      "Back"
+    ]
+  },
+  {
+    "item_id": "36487c16-b35c-4bf9-a3c5-01f074a5ddb8",
+    "item_created": "2025-07-07T15:56:52.160914",
+    "item_modified": "2025-07-07T15:56:52.160919",
+    "name": "Turkish Get-up",
+    "description": "Complex movement from lying to standing",
+    "category": "Functional",
+    "equipment": "Kettlebell",
+    "muscles": [
+      "Core",
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Full Body"
+    ]
+  },
+  {
+    "item_id": "45e28623-6298-4089-8ebd-da369745233f",
+    "item_created": "2025-07-07T15:56:52.161759",
+    "item_modified": "2025-07-07T15:56:52.161764",
+    "name": "Farmer's Walk",
+    "description": "Walk while carrying heavy weights",
+    "category": "Functional",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Forearms",
+      "Core"
+    ],
+    "sub_muscles": [
+      "Traps",
+      "Shoulders",
+      "Legs"
+    ]
+  },
+  {
+    "item_id": "b1ed7b87-5ed7-4753-a729-15317f9afd87",
+    "item_created": "2025-07-07T15:56:52.162491",
+    "item_modified": "2025-07-07T15:56:52.162496",
+    "name": "Sled Push",
+    "description": "Push weighted sled",
+    "category": "Power",
+    "equipment": "Sled",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Calves",
+      "Core",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "6d1b4c04-a92b-4139-8688-35208c2dfcde",
+    "item_created": "2025-07-07T15:56:52.163511",
+    "item_modified": "2025-07-07T15:56:52.163516",
+    "name": "Sled Pull",
+    "description": "Pull weighted sled",
+    "category": "Power",
+    "equipment": "Sled",
+    "muscles": [
+      "Back",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "fdcdd8e2-e30d-4f8b-bb9c-86d3e351be15",
+    "item_created": "2025-07-07T15:56:52.164380",
+    "item_modified": "2025-07-07T15:56:52.164384",
+    "name": "Battle Ropes",
+    "description": "Wave heavy ropes",
+    "category": "Cardio",
+    "equipment": "Battle Ropes",
+    "muscles": [
+      "Shoulders",
+      "Core"
+    ],
+    "sub_muscles": [
+      "Arms",
+      "Back"
+    ]
+  },
+  {
+    "item_id": "b08117f7-fefc-4845-bcf3-1d1cbdd66acd",
+    "item_created": "2025-07-07T15:56:52.165248",
+    "item_modified": "2025-07-07T15:56:52.165253",
+    "name": "Medicine Ball Slams",
+    "description": "Slam medicine ball to ground",
+    "category": "Power",
+    "equipment": "Medicine Ball",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Shoulders",
+      "Back",
+      "Arms"
+    ]
+  },
+  {
+    "item_id": "8d34fa18-7645-4b4a-8ce0-abf040cd3915",
+    "item_created": "2025-07-07T15:56:52.166401",
+    "item_modified": "2025-07-07T15:56:52.166405",
+    "name": "Wall Balls",
+    "description": "Squat and throw ball to wall target",
+    "category": "Functional",
+    "equipment": "Medicine Ball",
+    "muscles": [
+      "Quadriceps",
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "18b537bd-5aad-4c6e-8b06-1672bda9eff8",
+    "item_created": "2025-07-07T15:56:52.167193",
+    "item_modified": "2025-07-07T15:56:52.167197",
+    "name": "Thrusters",
+    "description": "Front squat to overhead press",
+    "category": "Power",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quadriceps",
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Core",
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "12843b9c-cd5f-4931-b70b-a81221e1af32",
+    "item_created": "2025-07-07T15:56:52.168036",
+    "item_modified": "2025-07-07T15:56:52.168040",
+    "name": "Clean and Press",
+    "description": "Clean bar to shoulders then press overhead",
+    "category": "Olympic",
+    "equipment": "Barbell",
+    "muscles": [
+      "Full Body"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "308b8f71-d2cb-4e5c-a2fe-c48dfd94a518",
+    "item_created": "2025-07-07T15:56:52.169004",
+    "item_modified": "2025-07-07T15:56:52.169009",
+    "name": "Power Clean",
+    "description": "Explosive pull from ground to shoulders",
+    "category": "Olympic",
+    "equipment": "Barbell",
+    "muscles": [
+      "Hamstrings",
+      "Glutes",
+      "Traps"
+    ],
+    "sub_muscles": [
+      "Quadriceps",
+      "Back",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "926f7ea8-7385-4dca-a511-e40f8bcfcd45",
+    "item_created": "2025-07-07T15:56:52.169769",
+    "item_modified": "2025-07-07T15:56:52.169773",
+    "name": "Snatch",
+    "description": "Lift bar from ground to overhead in one motion",
+    "category": "Olympic",
+    "equipment": "Barbell",
+    "muscles": [
+      "Full Body"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "094c01ce-9c67-4cca-be29-62d3b7c49d13",
+    "item_created": "2025-07-07T15:56:52.170620",
+    "item_modified": "2025-07-07T15:56:52.170624",
+    "name": "Hang Clean",
+    "description": "Clean from hanging position",
+    "category": "Olympic",
+    "equipment": "Barbell",
+    "muscles": [
+      "Hamstrings",
+      "Glutes",
+      "Traps"
+    ],
+    "sub_muscles": [
+      "Back",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "8447f6a7-4bc5-4fcc-8eeb-2461488bc8f2",
+    "item_created": "2025-07-07T15:56:52.171327",
+    "item_modified": "2025-07-07T15:56:52.171332",
+    "name": "Calf Raises",
+    "description": "Rise up on toes",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Calves"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "fec477f0-e797-44d6-9f47-298c50483ce7",
+    "item_created": "2025-07-07T15:56:52.171968",
+    "item_modified": "2025-07-07T15:56:52.171972",
+    "name": "Seated Calf Raises",
+    "description": "Calf raises while seated",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Calves"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "dfc75587-3014-4694-a1df-40fc7ce5edcd",
+    "item_created": "2025-07-07T15:56:52.172806",
+    "item_modified": "2025-07-07T15:56:52.172810",
+    "name": "Leg Curl",
+    "description": "Curl legs on machine",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "87eb2602-ae03-4ff0-944f-286b7ca77703",
+    "item_created": "2025-07-07T15:56:52.173649",
+    "item_modified": "2025-07-07T15:56:52.173719",
+    "name": "Leg Extension",
+    "description": "Extend legs on machine",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Quadriceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "5e791c61-8332-48b5-8e08-2b569ed9709e",
+    "item_created": "2025-07-07T15:56:52.174716",
+    "item_modified": "2025-07-07T15:56:52.174720",
+    "name": "Hip Thrust",
+    "description": "Thrust hips up with back on bench",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "ca9d104b-6b3a-4cb4-a09c-0ba915955e20",
+    "item_created": "2025-07-07T15:56:52.175624",
+    "item_modified": "2025-07-07T15:56:52.175629",
+    "name": "Glute Bridge",
+    "description": "Bridge hips up from ground",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "ac4fe8d3-0af3-455a-8c00-017847a81fef",
+    "item_created": "2025-07-07T15:56:52.176957",
+    "item_modified": "2025-07-07T15:56:52.176961",
+    "name": "Good Mornings",
+    "description": "Bend forward at hips with bar on back",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Hamstrings",
+      "Lower Back"
+    ],
+    "sub_muscles": [
+      "Glutes"
+    ]
+  },
+  {
+    "item_id": "768dd06a-2e5a-4fc4-81ad-aeeb77c1bdc4",
+    "item_created": "2025-07-07T15:56:52.177636",
+    "item_modified": "2025-07-07T15:56:52.177641",
+    "name": "Reverse Lunges",
+    "description": "Step backward into lunge",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "eba536bf-3c3f-44cb-82d7-b6713dab2da0",
+    "item_created": "2025-07-07T15:56:52.178274",
+    "item_modified": "2025-07-07T15:56:52.178278",
+    "name": "Step-ups",
+    "description": "Step up onto platform",
+    "category": "Strength",
+    "equipment": "Box",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Calves"
+    ]
+  },
+  {
+    "item_id": "1880d6a1-a271-46c7-b922-12be2646eb3c",
+    "item_created": "2025-07-07T15:56:52.178921",
+    "item_modified": "2025-07-07T15:56:52.178925",
+    "name": "Pistol Squats",
+    "description": "Single leg squat",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Quadriceps"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Core",
+      "Balance"
+    ]
+  },
+  {
+    "item_id": "21a2c858-5590-4a1d-89eb-135f2eb5d7c2",
+    "item_created": "2025-07-07T15:56:52.179528",
+    "item_modified": "2025-07-07T15:56:52.179532",
+    "name": "Nordic Curls",
+    "description": "Eccentric hamstring exercise",
+    "category": "Strength",
+    "equipment": "None",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "a53071f2-1421-40ae-ba00-9989e24882c9",
+    "item_created": "2025-07-07T15:56:52.180545",
+    "item_modified": "2025-07-07T15:56:52.180551",
+    "name": "Pallof Press",
+    "description": "Anti-rotation core exercise",
+    "category": "Core",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Obliques"
+    ]
+  },
+  {
+    "item_id": "9f438b5d-a658-4418-b495-7b09e04465a4",
+    "item_created": "2025-07-07T15:56:52.181524",
+    "item_modified": "2025-07-07T15:56:52.181529",
+    "name": "Dead Bug",
+    "description": "Core stability exercise",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "9a49b683-b5c3-4bb1-ac6f-ca4854075e5f",
+    "item_created": "2025-07-07T15:56:52.182266",
+    "item_modified": "2025-07-07T15:56:52.182270",
+    "name": "Bird Dog",
+    "description": "Opposite arm and leg extension",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Core",
+      "Lower Back"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "d485ce6b-bdd1-41f2-a734-848816a5f382",
+    "item_created": "2025-07-07T15:56:52.183178",
+    "item_modified": "2025-07-07T15:56:52.183182",
+    "name": "Bicycle Crunches",
+    "description": "Alternating elbow to knee crunches",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Obliques"
+    ]
+  },
+  {
+    "item_id": "165ddbf4-a358-4601-bc7d-2442c08d445c",
+    "item_created": "2025-07-07T15:56:52.183806",
+    "item_modified": "2025-07-07T15:56:52.183811",
+    "name": "Hanging Knee Raises",
+    "description": "Raise knees while hanging",
+    "category": "Core",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Hip Flexors",
+      "Forearms"
+    ]
+  },
+  {
+    "item_id": "40d89637-b543-40c3-9285-bd12e16ba726",
+    "item_created": "2025-07-07T15:56:52.184495",
+    "item_modified": "2025-07-07T15:56:52.184499",
+    "name": "Ab Wheel Rollout",
+    "description": "Roll wheel forward and back",
+    "category": "Core",
+    "equipment": "Ab Wheel",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Shoulders",
+      "Back"
+    ]
+  },
+  {
+    "item_id": "7a7dd242-fc54-4b00-a3b6-b1874b0b893a",
+    "item_created": "2025-07-07T15:56:52.185112",
+    "item_modified": "2025-07-07T15:56:52.185116",
+    "name": "Cable Woodchoppers",
+    "description": "Diagonal chop motion with cable",
+    "category": "Core",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Core",
+      "Obliques"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "0898b3a5-1baa-4139-9728-0211aa50048b",
+    "item_created": "2025-07-07T15:56:52.185818",
+    "item_modified": "2025-07-07T15:56:52.185823",
+    "name": "Superman",
+    "description": "Lift chest and legs while lying prone",
+    "category": "Core",
+    "equipment": "None",
+    "muscles": [
+      "Lower Back"
+    ],
+    "sub_muscles": [
+      "Glutes"
+    ]
+  },
+  {
+    "item_id": "5463f5e9-e521-4ee1-8099-8cc79df5ef64",
+    "item_created": "2025-07-07T15:56:52.186629",
+    "item_modified": "2025-07-07T15:56:52.186633",
+    "name": "Back Extension",
+    "description": "Extend back on Roman chair",
+    "category": "Core",
+    "equipment": "Roman Chair",
+    "muscles": [
+      "Lower Back"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "5df22988-12e2-4255-9e3c-ac37801b5374",
+    "item_created": "2025-07-07T15:56:52.187374",
+    "item_modified": "2025-07-07T15:56:52.187378",
+    "name": "Reverse Fly",
+    "description": "Fly motion for rear delts",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Rear Delts"
+    ],
+    "sub_muscles": [
+      "Upper Back"
+    ]
+  },
+  {
+    "item_id": "69445d63-8811-40a7-bc8d-e17dd0a04ab6",
+    "item_created": "2025-07-07T15:56:52.187960",
+    "item_modified": "2025-07-07T15:56:52.187964",
+    "name": "Cable Lateral Raise",
+    "description": "Lateral raise using cable",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "ba6be447-ae91-4fb5-90d6-c56ab04d6f60",
+    "item_created": "2025-07-07T15:56:52.191777",
+    "item_modified": "2025-07-07T15:56:52.191782",
+    "name": "Machine Shoulder Press",
+    "description": "Shoulder press on machine",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "b12e04cc-11ed-49f4-a58d-b90df99a8b38",
+    "item_created": "2025-07-07T15:56:52.192867",
+    "item_modified": "2025-07-07T15:56:52.192871",
+    "name": "Landmine Press",
+    "description": "Press barbell in landmine attachment",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "d6bf2034-fe5d-4c27-8111-aab98abaf79e",
+    "item_created": "2025-07-07T15:56:52.193621",
+    "item_modified": "2025-07-07T15:56:52.193625",
+    "name": "Landmine Row",
+    "description": "Row barbell in landmine attachment",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "6f01750c-bde4-4b48-a996-53932b8ad170",
+    "item_created": "2025-07-07T15:56:52.194480",
+    "item_modified": "2025-07-07T15:56:52.194484",
+    "name": "Cable Crossover",
+    "description": "Cross cables in front of body",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "0af855fc-02d3-4a79-ad12-9cfdd331fcfa",
+    "item_created": "2025-07-07T15:56:52.195198",
+    "item_modified": "2025-07-07T15:56:52.195202",
+    "name": "Pec Deck",
+    "description": "Chest fly on machine",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "78fe1dda-34ed-4a9e-8543-871534bfd237",
+    "item_created": "2025-07-07T15:56:52.196100",
+    "item_modified": "2025-07-07T15:56:52.196105",
+    "name": "Machine Chest Press",
+    "description": "Chest press on machine",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "688ac8c3-8823-4e52-b40c-803806ff808b",
+    "item_created": "2025-07-07T15:56:52.198472",
+    "item_modified": "2025-07-07T15:56:52.198476",
+    "name": "Hack Squat",
+    "description": "Squat on hack squat machine",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Quadriceps"
+    ],
+    "sub_muscles": [
+      "Glutes"
+    ]
+  },
+  {
+    "item_id": "d5c71f06-7a6a-49d0-8358-d0044787b7ea",
+    "item_created": "2025-07-07T15:56:52.199599",
+    "item_modified": "2025-07-07T15:56:52.199603",
+    "name": "Smith Machine Squat",
+    "description": "Squat using Smith machine",
+    "category": "Strength",
+    "equipment": "Smith Machine",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "900750f1-055b-4da2-bf93-d73295d910a0",
+    "item_created": "2025-07-07T15:56:52.200452",
+    "item_modified": "2025-07-07T15:56:52.200456",
+    "name": "Zercher Squat",
+    "description": "Squat with bar in elbow crooks",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quadriceps",
+      "Core"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Upper Back"
+    ]
+  },
+  {
+    "item_id": "86e3e5c9-7f8e-40d3-b780-f4c856d4b243",
+    "item_created": "2025-07-07T15:56:52.201323",
+    "item_modified": "2025-07-07T15:56:52.201329",
+    "name": "Anderson Squat",
+    "description": "Squat starting from bottom position",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Core"
+    ]
+  },
+  {
+    "item_id": "2001d883-bf66-47d6-9b5f-f41852bbbeb2",
+    "item_created": "2025-07-07T15:56:52.202168",
+    "item_modified": "2025-07-07T15:56:52.202173",
+    "name": "Box Squat",
+    "description": "Squat to box",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "adc69e51-ae90-44a8-a81d-babc62806edf",
+    "item_created": "2025-07-07T15:56:52.202943",
+    "item_modified": "2025-07-07T15:56:52.202947",
+    "name": "Pause Squat",
+    "description": "Squat with pause at bottom",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Core"
+    ]
+  },
+  {
+    "item_id": "84317df0-6487-4734-8f4c-9d35750fe265",
+    "item_created": "2025-07-07T15:56:52.204310",
+    "item_modified": "2025-07-07T15:56:52.204315",
+    "name": "1 1/4 Squat",
+    "description": "Squat with partial rep at bottom",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quadriceps"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "f5904aac-d798-4604-9c41-aae447e59c7c",
+    "item_created": "2025-07-07T15:56:52.205417",
+    "item_modified": "2025-07-07T15:56:52.205421",
+    "name": "Split Jerk",
+    "description": "Jerk weight overhead with split stance",
+    "category": "Olympic",
+    "equipment": "Barbell",
+    "muscles": [
+      "Shoulders",
+      "Legs"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "e0b8c16f-fd46-4c76-aae0-a5368f661d05",
+    "item_created": "2025-07-07T15:56:52.206366",
+    "item_modified": "2025-07-07T15:56:52.206370",
+    "name": "Push Jerk",
+    "description": "Jerk weight overhead with dip and drive",
+    "category": "Olympic",
+    "equipment": "Barbell",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Legs",
+      "Core",
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "2fd2d769-2af5-49cc-9d8d-4bc2e56fda35",
+    "item_created": "2025-07-07T15:56:52.207396",
+    "item_modified": "2025-07-07T15:56:52.207400",
+    "name": "Muscle-up",
+    "description": "Pull-up transitioning to dip",
+    "category": "Calisthenics",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Back",
+      "Chest",
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "e680c584-07a5-4737-8bbc-e4336197fdef",
+    "item_created": "2025-07-07T15:56:52.208313",
+    "item_modified": "2025-07-07T15:56:52.208318",
+    "name": "Handstand Push-up",
+    "description": "Push-up in handstand position",
+    "category": "Calisthenics",
+    "equipment": "None",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "26575a8c-9b48-491a-a184-ee8250ad912a",
+    "item_created": "2025-07-07T15:56:52.209159",
+    "item_modified": "2025-07-07T15:56:52.209163",
+    "name": "L-sit",
+    "description": "Hold legs parallel to ground",
+    "category": "Calisthenics",
+    "equipment": "Parallettes",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Hip Flexors",
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "1db23fe8-0f0a-4e98-8a7d-2216f685a676",
+    "item_created": "2025-07-07T15:56:52.209869",
+    "item_modified": "2025-07-07T15:56:52.209873",
+    "name": "Front Lever",
+    "description": "Hold body horizontal facing up",
+    "category": "Calisthenics",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Back",
+      "Core"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "40132abc-1dd7-4e98-bdf6-a77efa3301db",
+    "item_created": "2025-07-07T15:56:52.210638",
+    "item_modified": "2025-07-07T15:56:52.210642",
+    "name": "Back Lever",
+    "description": "Hold body horizontal facing down",
+    "category": "Calisthenics",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Chest",
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Back"
+    ]
+  },
+  {
+    "item_id": "e0a32233-5008-4075-8193-8deefc2da321",
+    "item_created": "2025-07-07T15:56:52.211418",
+    "item_modified": "2025-07-07T15:56:52.211422",
+    "name": "Human Flag",
+    "description": "Hold body horizontal sideways",
+    "category": "Calisthenics",
+    "equipment": "Vertical Bar",
+    "muscles": [
+      "Core",
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Lats",
+      "Obliques"
+    ]
+  },
+  {
+    "item_id": "da32e814-0de6-4f69-aa50-f136d7bb780f",
+    "item_created": "2025-07-07T15:56:52.212151",
+    "item_modified": "2025-07-07T15:56:52.212155",
+    "name": "Dragon Flag",
+    "description": "Raise body from bench keeping straight",
+    "category": "Core",
+    "equipment": "Bench",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Hip Flexors"
+    ]
+  },
+  {
+    "item_id": "df0592fe-4e42-46ea-8c3e-5334b1924142",
+    "item_created": "2025-07-07T15:56:52.212851",
+    "item_modified": "2025-07-07T15:56:52.212855",
+    "name": "Toes to Bar",
+    "description": "Hang and bring toes to bar",
+    "category": "Core",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Hip Flexors",
+      "Lats"
+    ]
+  },
+  {
+    "item_id": "16fadb5d-47dc-47eb-af14-2222afaa1767",
+    "item_created": "2025-07-07T15:56:52.213937",
+    "item_modified": "2025-07-07T15:56:52.213941",
+    "name": "Kipping Pull-up",
+    "description": "Pull-up with momentum",
+    "category": "CrossFit",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Back",
+      "Core"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "f383196e-19cd-42ce-a8aa-e9018dd2cd4a",
+    "item_created": "2025-07-07T15:56:52.214812",
+    "item_modified": "2025-07-07T15:56:52.214815",
+    "name": "Butterfly Pull-up",
+    "description": "Circular kipping pull-up",
+    "category": "CrossFit",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Back",
+      "Core"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "de4b4b8c-a387-4c5c-b05f-b89246d3ab8a",
+    "item_created": "2025-07-07T15:56:52.215622",
+    "item_modified": "2025-07-07T15:56:52.215626",
+    "name": "Ring Dips",
+    "description": "Dips on gymnastic rings",
+    "category": "Calisthenics",
+    "equipment": "Rings",
+    "muscles": [
+      "Triceps",
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Shoulders",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "7fa68744-4445-4876-bd49-b95d1d457af4",
+    "item_created": "2025-07-07T15:56:52.216309",
+    "item_modified": "2025-07-07T15:56:52.216313",
+    "name": "Ring Push-ups",
+    "description": "Push-ups on rings",
+    "category": "Calisthenics",
+    "equipment": "Rings",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Core",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "cb4c66d8-0411-48f4-a7f5-f471cb407996",
+    "item_created": "2025-07-07T15:56:52.219669",
+    "item_modified": "2025-07-07T15:56:52.219674",
+    "name": "Ring Rows",
+    "description": "Inverted rows on rings",
+    "category": "Calisthenics",
+    "equipment": "Rings",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "0f74ab9c-73cd-4ad1-92c4-26e23560d35f",
+    "item_created": "2025-07-07T15:56:52.220602",
+    "item_modified": "2025-07-07T15:56:52.220606",
+    "name": "Archer Push-up",
+    "description": "Push-up with one arm extended",
+    "category": "Calisthenics",
+    "equipment": "None",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Core",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "30c517b0-4fe6-40f4-98ff-df4df9793d68",
+    "item_created": "2025-07-07T15:56:52.221456",
+    "item_modified": "2025-07-07T15:56:52.221460",
+    "name": "Pike Push-up",
+    "description": "Push-up in pike position",
+    "category": "Calisthenics",
+    "equipment": "None",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "f21d6060-61ca-45b1-9850-6c963909d4d9",
+    "item_created": "2025-07-07T15:56:52.222595",
+    "item_modified": "2025-07-07T15:56:52.222600",
+    "name": "Hindu Push-up",
+    "description": "Dynamic push-up with wave motion",
+    "category": "Calisthenics",
+    "equipment": "None",
+    "muscles": [
+      "Chest",
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Core",
+      "Back"
+    ]
+  },
+  {
+    "item_id": "907c6fc1-4e8d-46c5-80e4-6783ea7ddc42",
+    "item_created": "2025-07-07T15:56:52.223781",
+    "item_modified": "2025-07-07T15:56:52.223785",
+    "name": "Clap Push-up",
+    "description": "Explosive push-up with clap",
+    "category": "Plyometric",
+    "equipment": "None",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "f51ef2e8-7af9-4f4c-ae5a-13d0e1636ef0",
+    "item_created": "2025-07-07T15:56:52.224987",
+    "item_modified": "2025-07-07T15:56:52.224992",
+    "name": "Weighted Pull-up",
+    "description": "Pull-up with added weight",
+    "category": "Strength",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "39176b89-5ed3-4ce5-8976-7fa12ffe527a",
+    "item_created": "2025-07-07T15:56:52.225919",
+    "item_modified": "2025-07-07T15:56:52.225923",
+    "name": "Weighted Dips",
+    "description": "Dips with added weight",
+    "category": "Strength",
+    "equipment": "Dip Bar",
+    "muscles": [
+      "Triceps",
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "9506e1e5-2e23-4610-a872-476146ac47bd",
+    "item_created": "2025-07-07T15:56:52.226721",
+    "item_modified": "2025-07-07T15:56:52.226725",
+    "name": "Belt Squat",
+    "description": "Squat with weight attached to belt",
+    "category": "Strength",
+    "equipment": "Belt Squat Machine",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "35c3ccf1-7ff6-4ae3-9217-a98c0d9ea64c",
+    "item_created": "2025-07-07T15:56:52.227565",
+    "item_modified": "2025-07-07T15:56:52.227569",
+    "name": "Safety Bar Squat",
+    "description": "Squat with safety squat bar",
+    "category": "Strength",
+    "equipment": "Safety Bar",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Upper Back"
+    ]
+  },
+  {
+    "item_id": "746210c8-1bc5-4b2d-8f27-c8e5f83c3ac0",
+    "item_created": "2025-07-07T15:56:52.228489",
+    "item_modified": "2025-07-07T15:56:52.228493",
+    "name": "Cambered Bar Squat",
+    "description": "Squat with cambered bar",
+    "category": "Strength",
+    "equipment": "Cambered Bar",
+    "muscles": [
+      "Quadriceps",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "c3be499d-b139-42de-8cf5-60cb5fde0c55",
+    "item_created": "2025-07-07T15:56:52.229302",
+    "item_modified": "2025-07-07T15:56:52.229306",
+    "name": "Deficit Deadlift",
+    "description": "Deadlift from elevated position",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Back",
+      "Traps"
+    ]
+  },
+  {
+    "item_id": "3a038021-5023-4497-8dba-89d13a37de16",
+    "item_created": "2025-07-07T15:56:52.230112",
+    "item_modified": "2025-07-07T15:56:52.230127",
+    "name": "Block Pulls",
+    "description": "Partial deadlift from blocks",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Back",
+      "Traps"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "7990ddc8-aebe-4913-b4ae-b4b97c99afa7",
+    "item_created": "2025-07-07T15:56:52.230904",
+    "item_modified": "2025-07-07T15:56:52.230909",
+    "name": "Snatch Grip Deadlift",
+    "description": "Wide grip deadlift",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Hamstrings",
+      "Back"
+    ],
+    "sub_muscles": [
+      "Traps",
+      "Glutes"
+    ]
+  },
+  {
+    "item_id": "7d25068e-ac5d-437a-84ff-78a655da532a",
+    "item_created": "2025-07-07T15:56:52.232057",
+    "item_modified": "2025-07-07T15:56:52.232061",
+    "name": "Jefferson Deadlift",
+    "description": "Straddle stance deadlift",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Glutes",
+      "Quadriceps"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "58941388-54d7-43dd-a7fb-04864d5f99e6",
+    "item_created": "2025-07-07T15:56:52.232962",
+    "item_modified": "2025-07-07T15:56:52.232966",
+    "name": "Reeves Deadlift",
+    "description": "Deadlift holding plates",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Back",
+      "Forearms"
+    ],
+    "sub_muscles": [
+      "Glutes",
+      "Hamstrings"
+    ]
+  },
+  {
+    "item_id": "14c0b6e0-db94-48e0-864b-3a0a189134f2",
+    "item_created": "2025-07-07T15:56:52.233991",
+    "item_modified": "2025-07-07T15:56:52.234026",
+    "name": "Paused Bench Press",
+    "description": "Bench press with pause on chest",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "de63d76f-1e80-4629-a7ff-447341f3aab9",
+    "item_created": "2025-07-07T15:56:52.234814",
+    "item_modified": "2025-07-07T15:56:52.234818",
+    "name": "Spoto Press",
+    "description": "Bench press stopping above chest",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "6f802601-8a6a-4d4e-ad41-718a2abaff88",
+    "item_created": "2025-07-07T15:56:52.235598",
+    "item_modified": "2025-07-07T15:56:52.235602",
+    "name": "Floor Press",
+    "description": "Bench press from floor",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "c68116b2-7e1a-4090-bf3f-559a7a07e62d",
+    "item_created": "2025-07-07T15:56:52.236310",
+    "item_modified": "2025-07-07T15:56:52.236315",
+    "name": "Pin Press",
+    "description": "Bench press from pins",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "32260306-5c85-4ff6-bd2a-ecfbd36f5df9",
+    "item_created": "2025-07-07T15:56:52.237204",
+    "item_modified": "2025-07-07T15:56:52.237208",
+    "name": "Slingshot Bench Press",
+    "description": "Bench press with slingshot",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "7dbfe85b-6087-4447-b276-7bd46362a4ef",
+    "item_created": "2025-07-07T15:56:52.237982",
+    "item_modified": "2025-07-07T15:56:52.237986",
+    "name": "JM Press",
+    "description": "Hybrid tricep/chest press",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Chest"
+    ]
+  },
+  {
+    "item_id": "1285c557-ca08-4802-a56d-c2929ea85f25",
+    "item_created": "2025-07-07T15:56:52.238905",
+    "item_modified": "2025-07-07T15:56:52.238910",
+    "name": "Tate Press",
+    "description": "Dumbbell tricep exercise",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Triceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "64eaa7b2-6165-4f82-a03f-35420bc0d179",
+    "item_created": "2025-07-07T15:56:52.240508",
+    "item_modified": "2025-07-07T15:56:52.240512",
+    "name": "21s Bicep Curl",
+    "description": "Bicep curl with partial reps",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "7e33f949-c493-4620-9915-c0d18c0e47e8",
+    "item_created": "2025-07-07T15:56:52.241335",
+    "item_modified": "2025-07-07T15:56:52.241339",
+    "name": "Spider Curl",
+    "description": "Curl on incline bench face down",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "372b5494-a31f-4929-a681-b8994a6c3dac",
+    "item_created": "2025-07-07T15:56:52.242174",
+    "item_modified": "2025-07-07T15:56:52.242178",
+    "name": "Zottman Curl",
+    "description": "Curl with rotating grip",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Biceps",
+      "Forearms"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "f494d08f-820f-4114-9b6d-252e01086260",
+    "item_created": "2025-07-07T15:56:52.243049",
+    "item_modified": "2025-07-07T15:56:52.243053",
+    "name": "Cross Body Hammer Curl",
+    "description": "Hammer curl across body",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Biceps"
+    ],
+    "sub_muscles": [
+      "Forearms"
+    ]
+  },
+  {
+    "item_id": "f9d2a81b-3cf0-4525-ae54-070a5dd2da41",
+    "item_created": "2025-07-07T15:56:52.243807",
+    "item_modified": "2025-07-07T15:56:52.243811",
+    "name": "Reverse Curl",
+    "description": "Curl with overhand grip",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Forearms"
+    ],
+    "sub_muscles": [
+      "Biceps"
+    ]
+  },
+  {
+    "item_id": "b7b7c703-85af-42ad-9069-1155c44c2a7d",
+    "item_created": "2025-07-07T15:56:52.244916",
+    "item_modified": "2025-07-07T15:56:52.244920",
+    "name": "Wrist Curl",
+    "description": "Curl wrists with weight",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Forearms"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "2cea1ea9-1f42-4477-a980-bfeaedb88bb1",
+    "item_created": "2025-07-07T15:56:52.245742",
+    "item_modified": "2025-07-07T15:56:52.245747",
+    "name": "Reverse Wrist Curl",
+    "description": "Reverse wrist curl",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Forearms"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "f1c83814-6505-4929-994d-a6f236ca80cf",
+    "item_created": "2025-07-07T15:56:52.247783",
+    "item_modified": "2025-07-07T15:56:52.247788",
+    "name": "Plate Pinch",
+    "description": "Hold plates with fingertips",
+    "category": "Grip",
+    "equipment": "Plates",
+    "muscles": [
+      "Forearms"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "0895d260-f803-4f4e-a4db-bf97aaaadcf3",
+    "item_created": "2025-07-07T15:56:52.249060",
+    "item_modified": "2025-07-07T15:56:52.249064",
+    "name": "Dead Hang",
+    "description": "Hang from bar",
+    "category": "Grip",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Forearms"
+    ],
+    "sub_muscles": [
+      "Core",
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "1b31c06b-6e8c-4708-b453-5202026749b0",
+    "item_created": "2025-07-07T15:56:52.250098",
+    "item_modified": "2025-07-07T15:56:52.250102",
+    "name": "Towel Pull-up",
+    "description": "Pull-up gripping towels",
+    "category": "Strength",
+    "equipment": "Pull-up Bar",
+    "muscles": [
+      "Back",
+      "Forearms"
+    ],
+    "sub_muscles": [
+      "Biceps"
+    ]
+  },
+  {
+    "item_id": "605eaa2b-3473-4bd0-be96-e30c783e6174",
+    "item_created": "2025-07-07T15:56:52.250916",
+    "item_modified": "2025-07-07T15:56:52.250920",
+    "name": "Fat Bar Curl",
+    "description": "Curl with thick bar",
+    "category": "Strength",
+    "equipment": "Fat Bar",
+    "muscles": [
+      "Biceps",
+      "Forearms"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "17de1412-7b24-4484-a6a6-038c34850051",
+    "item_created": "2025-07-07T15:56:52.251751",
+    "item_modified": "2025-07-07T15:56:52.251755",
+    "name": "Kroc Row",
+    "description": "High rep heavy dumbbell row",
+    "category": "Strength",
+    "equipment": "Dumbbell",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "c145488e-15ee-4934-8b43-47a7b1bb2150",
+    "item_created": "2025-07-07T15:56:52.252473",
+    "item_modified": "2025-07-07T15:56:52.252477",
+    "name": "Pendlay Row",
+    "description": "Strict barbell row from floor",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "3e337e47-2810-4bb9-8da2-e51ddbc72f64",
+    "item_created": "2025-07-07T15:56:52.253288",
+    "item_modified": "2025-07-07T15:56:52.253291",
+    "name": "Yates Row",
+    "description": "Underhand barbell row",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Back",
+      "Biceps"
+    ],
+    "sub_muscles": [
+      "Middle Back"
+    ]
+  },
+  {
+    "item_id": "7539314b-5095-4e80-99fa-97c148c59a24",
+    "item_created": "2025-07-07T15:56:52.254135",
+    "item_modified": "2025-07-07T15:56:52.254138",
+    "name": "Meadows Row",
+    "description": "Landmine single arm row",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "04456cc0-ed20-4c61-8cf6-31a410681666",
+    "item_created": "2025-07-07T15:56:52.257299",
+    "item_modified": "2025-07-07T15:56:52.257302",
+    "name": "Seal Row",
+    "description": "Row lying on elevated bench",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps"
+    ]
+  },
+  {
+    "item_id": "6a974890-5788-4114-b680-04248996a70f",
+    "item_created": "2025-07-07T15:56:52.258300",
+    "item_modified": "2025-07-07T15:56:52.258304",
+    "name": "Chest Supported Row",
+    "description": "Row with chest support",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Rear Delts"
+    ]
+  },
+  {
+    "item_id": "8ef35583-fac1-4788-afa7-91ae666bf676",
+    "item_created": "2025-07-07T15:56:52.259074",
+    "item_modified": "2025-07-07T15:56:52.259078",
+    "name": "Cable Pullover",
+    "description": "Pullover using cable",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Lats"
+    ],
+    "sub_muscles": [
+      "Chest",
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "88361886-5b2a-458d-b881-5f57c78e8717",
+    "item_created": "2025-07-07T15:56:52.259775",
+    "item_modified": "2025-07-07T15:56:52.259779",
+    "name": "Dumbbell Pullover",
+    "description": "Pullover with dumbbell",
+    "category": "Strength",
+    "equipment": "Dumbbell",
+    "muscles": [
+      "Lats",
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "d3ee9991-28a2-473b-ba29-e5468eb9b45b",
+    "item_created": "2025-07-07T15:56:52.260512",
+    "item_modified": "2025-07-07T15:56:52.260515",
+    "name": "Straight Arm Pulldown",
+    "description": "Pulldown with straight arms",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Lats"
+    ],
+    "sub_muscles": [
+      "Core"
+    ]
+  },
+  {
+    "item_id": "3dbd9174-3c99-4f93-a0fe-d60e92ff9c7f",
+    "item_created": "2025-07-07T15:56:52.261786",
+    "item_modified": "2025-07-07T15:56:52.261790",
+    "name": "High Row",
+    "description": "Row to upper chest",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Upper Back"
+    ],
+    "sub_muscles": [
+      "Rear Delts",
+      "Biceps"
+    ]
+  },
+  {
+    "item_id": "6b95402a-6b3a-4bd1-8148-46060e11c57e",
+    "item_created": "2025-07-11T15:56:36.406459",
+    "item_modified": "2025-07-11T15:56:36.406466",
+    "name": "Incline Dumbbell Press",
+    "description": "Incline Dumbbell Press exercise",
+    "category": "Strength",
+    "equipment": "Dumbbells",
+    "muscles": [
+      "Chest"
+    ],
+    "sub_muscles": [
+      "Shoulders",
+      "Triceps"
+    ]
+  },
+  {
+    "item_id": "9e9046a4-1813-45e2-ac24-3d53340cf686",
+    "item_created": "2025-07-11T15:56:36.412581",
+    "item_modified": "2025-07-11T15:56:36.412584",
+    "name": "Dips",
+    "description": "Dips exercise",
+    "category": "Strength",
+    "equipment": "Dip Bar",
+    "muscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "sub_muscles": [
+      "Shoulders"
+    ]
+  },
+  {
+    "item_id": "167fc3d7-6a16-4f0f-9149-b979e036d0e7",
+    "item_created": "2025-07-11T15:56:36.414218",
+    "item_modified": "2025-07-11T15:56:36.414219",
+    "name": "Bent Over Row",
+    "description": "Bent Over Row exercise",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Rear Delts"
+    ]
+  },
+  {
+    "item_id": "e5e8d66c-c2f6-429e-9837-762e9c0261fa",
+    "item_created": "2025-07-11T15:56:36.415793",
+    "item_modified": "2025-07-11T15:56:36.415795",
+    "name": "Cable Row",
+    "description": "Cable Row exercise",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Back"
+    ],
+    "sub_muscles": [
+      "Biceps",
+      "Rear Delts"
+    ]
+  },
+  {
+    "item_id": "c73e1d97-1e6d-4af6-8e7a-b2204f8f0a9a",
+    "item_created": "2025-07-11T15:56:36.417191",
+    "item_modified": "2025-07-11T15:56:36.417192",
+    "name": "Overhead Press",
+    "description": "Overhead Press exercise",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Shoulders"
+    ],
+    "sub_muscles": [
+      "Triceps",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "e910844b-6a46-41e9-987b-743015384a95",
+    "item_created": "2025-07-11T15:56:36.419146",
+    "item_modified": "2025-07-11T15:56:36.419147",
+    "name": "Barbell Squat",
+    "description": "Barbell Squat exercise",
+    "category": "Strength",
+    "equipment": "Barbell",
+    "muscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "sub_muscles": [
+      "Hamstrings",
+      "Core"
+    ]
+  },
+  {
+    "item_id": "7e468081-dcc6-4124-a3c3-e2885934b69a",
+    "item_created": "2025-07-11T15:56:36.420728",
+    "item_modified": "2025-07-11T15:56:36.420731",
+    "name": "Leg Curls",
+    "description": "Leg Curls exercise",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "sub_muscles": [
+      "Calves"
+    ]
+  },
+  {
+    "item_id": "98fc458f-4f37-487e-9ff0-a261d594ebe9",
+    "item_created": "2025-07-11T15:56:36.422053",
+    "item_modified": "2025-07-11T15:56:36.422054",
+    "name": "Leg Extensions",
+    "description": "Leg Extensions exercise",
+    "category": "Strength",
+    "equipment": "Machine",
+    "muscles": [
+      "Quads"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "89c97707-03a2-42a4-8e8e-babb282d804a",
+    "item_created": "2025-07-11T15:56:36.425375",
+    "item_modified": "2025-07-11T15:56:36.425378",
+    "name": "Cable Crunches",
+    "description": "Cable Crunches exercise",
+    "category": "Strength",
+    "equipment": "Cable Machine",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": []
+  },
+  {
+    "item_id": "0a03a8a2-fec6-4827-9903-72a4aa41f6b0",
+    "item_created": "2025-07-11T15:56:36.426696",
+    "item_modified": "2025-07-11T15:56:36.426697",
+    "name": "Ab Wheel",
+    "description": "Ab Wheel exercise",
+    "category": "Strength",
+    "equipment": "Ab Wheel",
+    "muscles": [
+      "Core"
+    ],
+    "sub_muscles": [
+      "Shoulders",
+      "Back"
+    ]
+  }
+]

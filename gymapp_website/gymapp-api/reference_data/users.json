@@ -1,0 +1,56 @@
+[
+  {
+    "item_id": "2115e8e3-33a3-45d1-ae9e-2506aa80852f",
+    "item_created": "2025-07-11T15:56:36.690551",
+    "item_modified": "2025-07-11T15:56:36.690555",
+    "username": "test1",
+    "first_name": "Test",
+    "last_name": "User One",
+    "age": 25,
+    "height": 70,
+    "weight": 180,
+    "sex": "Male",
+    "experience": 2,
+    "last_use": "2025-07-11T15:56:36.428780",
+    "goal": [
+      "strength and lean muscle gain"
+    ],
+    "hashed_password": "$2b$12$YnhzOIuy/1znYUzU04cpyeBln9aDth4tXUyWGYXri/zn6Flf1R9k6"
+  },
+  {
+    "item_id": "74cf02e8-3ef9-4935-bb30-e4e241ac0b17",
+    "item_created": "2025-07-11T15:56:36.928875",
+    "item_modified": "2025-07-11T15:56:36.928879",
+    "username": "test2",
+    "first_name": "Test",
+    "last_name": "User Two",
+    "age": 30,
+    "height": 72,
+    "weight": 200,
+    "sex": "Male",
+    "experience": 5,
+    "last_use": "2025-07-11T15:56:36.428783",
+    "goal": [
+      "strength and lean muscle gain"
+    ],
+    "hashed_password": "$2b$12$be3WGsA5Lit675R5TfKDluwCAb9tBCqRtCqqco.Xt9AK0YtWsYjga"
+  },
+  {
+    "item_id": "e27180c5-9374-4f91-b22b-b4c65810f2f8",
+    "item_created": "2025-07-11T15:56:37.165888",
+    "item_modified": "2025-07-16T17:19:31.489768",
+    "username": "test3",
+    "first_name": "Test",
+    "last_name": "User Three",
+    "age": 28,
+    "height": 68,
+    "weight": 165,
+    "sex": "Female",
+    "experience": 3,
+    "last_use": "2025-07-16T17:19:31.489640",
+    "goal": [
+      "cutting"
+    ],
+    "hashed_password": "$2b$12$v3uVkP1DxNyYldWijD..YenuSf3CIbjbyb2aO1.Sqcpd3RYY8q3Ym"
+  }
+]
